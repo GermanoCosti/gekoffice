@@ -1,0 +1,16 @@
+<svg width="960" height="320" viewBox="0 0 960 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="960" height="320" rx="28" fill="#F6F8F4"/>
+  <g transform="translate(82 38)">
+    <path d="M128 24L202 48V116C202 174 171 219 128 240C85 219 54 174 54 116V48L128 24Z" fill="#2E6E52"/>
+    <path d="M128 42L186 61V116C186 165 161 202 128 221C95 202 70 165 70 116V61L128 42Z" fill="#EEF3EE"/>
+    <path d="M96 90H160" stroke="#7EA88B" stroke-width="7" stroke-linecap="round"/>
+    <path d="M96 120H160" stroke="#7EA88B" stroke-width="7" stroke-linecap="round"/>
+    <path d="M96 150H160" stroke="#7EA88B" stroke-width="7" stroke-linecap="round"/>
+    <path d="M90 90V156" stroke="#7EA88B" stroke-width="7" stroke-linecap="round"/>
+    <path d="M166 90V156" stroke="#7EA88B" stroke-width="7" stroke-linecap="round"/>
+  </g>
+  <text x="340" y="136" font-family="Trebuchet MS, Verdana, sans-serif" font-size="68" font-weight="700" fill="#20372B">Gek</text>
+  <text x="468" y="136" font-family="Trebuchet MS, Verdana, sans-serif" font-size="68" font-weight="700" fill="#2E6E52">Office</text>
+  <text x="342" y="182" font-family="Trebuchet MS, Verdana, sans-serif" font-size="22" font-weight="500" fill="#5B6F63">Distribuzione open source per la Pubblica Amministrazione italiana</text>
+  <path d="M342 208H610" stroke="#A8C2AF" stroke-width="6" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,11 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" rx="84" fill="#F6F8F4"/>
+  <path d="M256 70L346 100V183C346 254 308 309 256 335C204 309 166 254 166 183V100L256 70Z" fill="#2E6E52"/>
+  <path d="M256 92L326 115V183C326 242 296 288 256 310C216 288 186 242 186 183V115L256 92Z" fill="#EEF3EE"/>
+  <path d="M216 149H296" stroke="#7EA88B" stroke-width="10" stroke-linecap="round"/>
+  <path d="M216 186H296" stroke="#7EA88B" stroke-width="10" stroke-linecap="round"/>
+  <path d="M216 223H296" stroke="#7EA88B" stroke-width="10" stroke-linecap="round"/>
+  <path d="M208 149V231" stroke="#7EA88B" stroke-width="10" stroke-linecap="round"/>
+  <path d="M304 149V231" stroke="#7EA88B" stroke-width="10" stroke-linecap="round"/>
+  <text x="170" y="430" font-family="Trebuchet MS, Verdana, sans-serif" font-size="66" font-weight="700" fill="#20372B">GO</text>
+</svg>
