@@ -4,7 +4,7 @@
 
 # GekOffice
 
-GekOffice e una distribuzione open source per la Pubblica Amministrazione italiana, basata su LibreOffice e orientata a interoperabilita, produttivita documentale e personalizzazione per enti pubblici, scuole, uffici e professionisti.
+GekOffice ? una distribuzione open source per la Pubblica Amministrazione italiana, basata su LibreOffice e orientata a interoperabilit?, produttivit? documentale e personalizzazione per enti pubblici, scuole, uffici e professionisti.
 
 ## Obiettivi
 
@@ -13,40 +13,37 @@ GekOffice e una distribuzione open source per la Pubblica Amministrazione italia
 - mantenere il progetto aperto, documentato e sviluppabile da altri
 - restare compatibile con gli standard aperti e con LibreOffice upstream
 
-## Aree del progetto
+## Pacchetti disponibili
 
-- `branding/`: identita visiva e personalizzazione del prodotto
+- `v0.2.0-beta`: prima personalizzazione operativa sopra LibreOffice gi? installato
+- `v0.3.0-beta Full`: pacchetto completo per Windows con installer LibreOffice, profilo GekOffice, branding, template e strumenti PA
+
+## Componenti del progetto
+
+- `branding/`: identit? visiva e personalizzazione del prodotto
 - `templates/`: modelli per documenti amministrativi e flussi ricorrenti
 - `extensions/`: estensioni, macro e strumenti per casi d'uso della PA
 - `patches/`: patch mantenute sopra il codice upstream
 - `packaging/`: file e configurazioni per distribuzione e rilascio
 - `docs/`: documentazione tecnica, organizzativa e funzionale
 
-## Identita visiva
+## Identit? visiva
 
 - logo principale: `branding/gekoffice-logo.svg`
 - icona: `branding/gekoffice-icon.svg`
 - banner: `branding/gekoffice-banner.svg`
 
-## Sito ufficiale
-
-`https://aidataitalia.it`
-
 ## Stato del progetto
 
-Fase iniziale di impostazione.
+Versione beta pubblica disponibile, con wrapper brandizzato `GekOffice`, menu `Strumenti PA`, template iniziali e pacchetto `Full` per Windows.
 
-## Roadmap iniziale
+## Sito ufficiale
 
-- definizione del branding e dell'identita del progetto
-- creazione dei primi template per la PA
-- impostazione delle estensioni iniziali
-- organizzazione del repository pubblico
-- prima distribuzione personalizzata basata su LibreOffice
+`https://aidataitalia.it/gekoffice/`
 
 ## Contribuire
 
-Il progetto e aperto a contributi tecnici, documentali e organizzativi.
+Il progetto ? aperto a contributi tecnici, documentali e organizzativi.
 
 ## Licenza
 

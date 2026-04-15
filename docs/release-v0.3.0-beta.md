@@ -1,16 +1,16 @@
 # GekOffice v0.3.0-beta
 
-Prima beta del pacchetto completo GekOffice.
+Prima beta completa del pacchetto `GekOffice Full` per Windows.
 
 ## Contenuto
 
-- installer ufficiale LibreOffice per Windows incluso nel pacchetto
-- profilo LibreOffice dedicato a GekOffice
-- macro integrate per i principali modelli PA
-- estensione `Strumenti PA`
-- template documentali iniziali per la Pubblica Amministrazione italiana
-- branding coordinato del progetto
-- script di installazione e avvio
+- installer ufficiale LibreOffice incluso nel pacchetto
+- profilo dedicato GekOffice
+- branding GekOffice di primo livello
+- menu `Strumenti PA`
+- template iniziali per la Pubblica Amministrazione italiana
+- script di installazione e avvio dedicati
+- collegamento Desktop e menu Start
 
 ## Modelli inclusi
 
@@ -22,8 +22,8 @@ Prima beta del pacchetto completo GekOffice.
 
 ## Obiettivo
 
-Questa versione introduce un pacchetto piu completo e piu presentabile di GekOffice, pensato come base distribuita sopra LibreOffice con strumenti e configurazioni dedicate alla PA italiana.
+Presentare GekOffice come prodotto installabile pi? completo e pi? coerente nel nome, pur restando tecnicamente basato su LibreOffice.
 
-## Stato
+## Nota
 
-Versione beta di distribuzione completa, successiva allo starter package tecnico.
+Il rebrand visivo del wrapper ? applicato nei punti gestiti dal pacchetto. Per un rebrand totale dell'interfaccia interna di LibreOffice ? ancora necessaria una build brandizzata del sorgente.
